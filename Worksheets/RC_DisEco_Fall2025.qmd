@@ -45,3 +45,35 @@ b\) 99% confidence in detecting a disease at 2% prevalence in a large population
 3\) You sample 300 deer from a high fenced facility that has a herd of 4000. None of the 300 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is [***\<1%***]{.underline}.
 
 ![](images/ss_table.png)
+
+------------------------------------------------------------------------
+
+# Worksheet 3: Measures of disease frequency: Prevalence and Incidence
+
+\
+a) Find incidence on day 06/12/25, 06/14/25 and 06/15/25. Write the unit for incidence.\
+[*06/12/25 - **0.2 cases per elk day***]{.underline}
+
+[*06/14/25 - **0.4 cases per elk day***]{.underline}
+
+[*06/15/25 - **0.6 cases per elk day***]{.underline}
+
+\
+b) What is the prevalence of conjunctivitis on 06/13/25 and 06/16/25? What is the unit\
+for prevalence.
+
+[*06/13/25 - **21% prevalence of conjunctivitis***]{.underline}
+
+[*06/16/25 - **9% prevalence of conjunctivitis***]{.underline}
+
+\
+c) On which day is the prevalence same as the incidence (except the units)?
+
+[*The prevalence is the same as the incidence on **06/10/25***]{.underline}
+
+\
+d) On which day is the incidence lowest?
+
+[*The incidence is the lowest on**06/10/25 or day 1***]{.underline}
+
+![](images/WrkSheet3Data.png)
