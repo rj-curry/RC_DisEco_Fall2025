@@ -77,3 +77,31 @@ d) On which day is the incidence lowest?
 [*The incidence is the lowest on**06/10/25 or day 1***]{.underline}
 
 ![](images/WrkSheet3Data.png)
+
+------------------------------------------------------------------------
+
+# Worksheet 4: Multihost pathogens, Spillover
+
+**MERS-CoV**\
+Which of the following statements about MERS-CoV are correct? *(If it is incorrect, provide an explanation why the statement is incorrect.)*
+
+1.  MERS-CoV is primarily maintained in human populations. (2 points)
+
+    [***Incorrect - MERS-CoV has limited human-to-human transmission and is primarily maintained in Camel populations.***]{.underline}
+
+2.  Camels serve as the main animal reservoir for MERS-CoV. (2 points)
+
+    [***Correct - Camels act as the main reservoir for MERS-CoV through direct physical contact leading to transmission to humans***]{.underline}
+
+3.  Humans are dead-end hosts for MERS-CoV. (2 points)
+
+    [***Incorrect - Human-to-human transmission is possible but limited, only occuring through prolonged close-contact, mainly in health care-associated environments.***]{.underline}
+
+4.  The estimated case fatality rate for human MERS-CoV infections is approximately\
+    65%. (2 points)
+
+    [***Incorrect - Approximately 35% of reported MERS-CoV cases have been fatal.***]{.underline}
+
+5.  The epidemic curve indicates this is a point source outbreak. (2 points)
+
+    [***Incorrect - The epidemic curve indicates a propagated outbreak due to multiple peaks, or outbreaks, present on the epidemic curve.***]{.underline}![](images/MERS.png)
