@@ -1,0 +1,107 @@
+---
+title: "RC_DisEco_Fall2025"
+author: "Ryan Curry"
+format: html
+editor: visual
+---
+
+# Worksheet 1: Introduction
+
+Find area of a circle with radius 5 cm.
+
+Formula: ¶ \* r\^2
+
+where r is the radius.
+
+```{r}
+# Function to calculate the area of a circle
+area_of_circle <- function(radius) {
+  area <- pi * radius^2
+  return(area)
+}
+radius <- 5 # from the example
+circle_area <- area_of_circle(radius)
+cat("The area of the circle with radius", radius, "is", circle_area, "\n")
+```
+
+![This image represents the Epidemiological Triad. Each factor influences and interacts with each others in any given scenario where disease is present.](images/clipboard-3074607886.png)
+
+------------------------------------------------------------------------
+
+# Worksheet 2: Sample Size for Disease Detection
+
+1\) Find the sample size necessary to detect a disease at or above 5% prevalence in a herd of 5000 deer. The desired level of confidence is 95%.
+
+[*The suggested sample size to detect disease at or above 5% prevalence in a herd of 5000 at 95% C.I. is **59 individuals***]{.underline}
+
+2\) Using the hypergeometric distribution, compare the sample size requirements for the following scenarios:
+
+a\) 95% confidence in detecting a disease at 1% prevalence in a large population
+
+b\) 99% confidence in detecting a disease at 2% prevalence in a large population
+
+[*The sample sizes suggested when detecting a disease at 1% prevalence with a 95% C.I. are **considerably greater** than the samples sizes suggested when detecting a disease at 2% prevalence with a 99% C.I., reaching up to 70 more individuals in larger populations.*]{.underline}
+
+3\) You sample 300 deer from a high fenced facility that has a herd of 4000. None of the 300 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is [***\<1%***]{.underline}.
+
+![](images/ss_table.png)
+
+------------------------------------------------------------------------
+
+# Worksheet 3: Measures of disease frequency: Prevalence and Incidence
+
+\
+a) Find incidence on day 06/12/25, 06/14/25 and 06/15/25. Write the unit for incidence.\
+[*06/12/25 - **0.2 cases per elk day***]{.underline}
+
+[*06/14/25 - **0.4 cases per elk day***]{.underline}
+
+[*06/15/25 - **0.6 cases per elk day***]{.underline}
+
+\
+b) What is the prevalence of conjunctivitis on 06/13/25 and 06/16/25? What is the unit\
+for prevalence.
+
+[*06/13/25 - **21% prevalence of conjunctivitis***]{.underline}
+
+[*06/16/25 - **9% prevalence of conjunctivitis***]{.underline}
+
+\
+c) On which day is the prevalence same as the incidence (except the units)?
+
+[*The prevalence is the same as the incidence on **06/10/25***]{.underline}
+
+\
+d) On which day is the incidence lowest?
+
+[*The incidence is the lowest on**06/10/25 or day 1***]{.underline}
+
+![](images/WrkSheet3Data.png)
+
+------------------------------------------------------------------------
+
+# Worksheet 4: Multihost pathogens, Spillover
+
+**MERS-CoV**\
+Which of the following statements about MERS-CoV are correct? *(If it is incorrect, provide an explanation why the statement is incorrect.)*
+
+1.  MERS-CoV is primarily maintained in human populations. (2 points)
+
+    [***Incorrect - MERS-CoV has limited human-to-human transmission and is primarily maintained in Camel populations.***]{.underline}
+
+2.  Camels serve as the main animal reservoir for MERS-CoV. (2 points)
+
+    [***Correct - Camels act as the main reservoir for MERS-CoV through direct physical contact leading to transmission to humans***]{.underline}
+
+3.  Humans are dead-end hosts for MERS-CoV. (2 points)
+
+    [***Incorrect - Human-to-human transmission is possible but limited, only occuring through prolonged close-contact, mainly in health care-associated environments.***]{.underline}
+
+4.  The estimated case fatality rate for human MERS-CoV infections is approximately\
+    65%. (2 points)
+
+    [***Incorrect - Approximately 35% of reported MERS-CoV cases have been fatal.***]{.underline}
+
+5.  The epidemic curve indicates this is a point source outbreak. (2 points)
+
+    [***Incorrect - The epidemic curve indicates a propagated outbreak due to multiple peaks, or outbreaks, present on the epidemic curve.***]{.underline}![](images/MERS.png)
