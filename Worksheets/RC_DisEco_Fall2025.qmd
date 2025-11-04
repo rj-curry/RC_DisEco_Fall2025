@@ -105,3 +105,25 @@ Which of the following statements about MERS-CoV are correct? *(If it is incorre
 5.  The epidemic curve indicates this is a point source outbreak. (2 points)
 
     [***Incorrect - The epidemic curve indicates a propagated outbreak due to multiple peaks, or outbreaks, present on the epidemic curve.***]{.underline}![](images/MERS.png)
+
+------------------------------------------------------------------------
+
+# Worksheet 5: Community Epidemiology Framework
+
+**Marburg Virus Outbreak, Rwanda 2024**\
+The first person to become infected in the current Marburg virus outbreak in Rwanda\
+probably contracted the disease during a visit to a cave with Egyptian rousette bats/fruit\
+bats that are known reservoir of Marburg virus. As of 19 December 2024, 66 cases of\
+Marburg virus infection were documented, and most of the people infected were health\
+care workers, mainly those who worked in intensive care units.
+
+\
+1. Using the community epidemiology framework developed by Fenton and Pedersen,\
+would you classify this Marburg virus outbreak as a spillover event or an emerging\
+infectious disease? Justify your classification.
+
+[***This outbreak of Marburg virus would be classified as a spillover, but had a high chance of becoming an EID. Marburg virus probably began because someone visited a bat cave, which is a rare occurance for transmission. However, once in humans, Marburg virus is capable of low human-to-human transmission which was kept low and had the potential of being much worse if not for Rwanda's actions.***]{.underline}\
+2. What measures could be implemented to reduce the risk of transmission in both\
+community and healthcare settings?
+
+[***Rwanda's response to Marburg virus showed success to be learned from for any similar cases in the future. To help reduce transmission risk in healthcare settings, Rwanda provided thorough training to healthcare workers once the virus was detected, had strict rules on PPE, and kept patients contained and quarantined. In the community, Rwanda's ability to detect the virus quickly and educate the public on how to avoid contact helped reduce transmission risk.***]{.underline}
