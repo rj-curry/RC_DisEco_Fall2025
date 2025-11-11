@@ -127,3 +127,15 @@ infectious disease? Justify your classification.
 community and healthcare settings?
 
 [***Rwanda's response to Marburg virus showed success to be learned from for any similar cases in the future. To help reduce transmission risk in healthcare settings, Rwanda provided thorough training to healthcare workers once the virus was detected, had strict rules on PPE, and kept patients contained and quarantined. In the community, Rwanda's ability to detect the virus quickly and educate the public on how to avoid contact helped reduce transmission risk.***]{.underline}
+
+------------------------------------------------------------------------
+
+# Worksheet 6: Using QPweb (Quantitative Parasitology)
+
+A new disease, *Vertico*, has been detected in fish in two separate ponds. Your task is to analyze the sample data to determine and compare the disease prevalence between the two ponds.
+
+[***Pond 1: 30% Prevalence 95% CI 14%-53%***]{.underline}
+
+[***Pond 2: 7% Prevalence 95% CI 0.3%-30%***]{.underline}
+
+[***p-value: 0.1987 - The difference is not statistically significant***]{.underline}
